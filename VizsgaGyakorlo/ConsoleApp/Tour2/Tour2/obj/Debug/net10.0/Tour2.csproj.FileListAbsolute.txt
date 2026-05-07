@@ -1,0 +1,14 @@
+C:\Users\bbucz\Documents\Suli\VizsgaGyakorlo\ConsoleApp\Tour2\Tour2\bin\Debug\net10.0\Tour2.exe
+C:\Users\bbucz\Documents\Suli\VizsgaGyakorlo\ConsoleApp\Tour2\Tour2\bin\Debug\net10.0\Tour2.deps.json
+C:\Users\bbucz\Documents\Suli\VizsgaGyakorlo\ConsoleApp\Tour2\Tour2\bin\Debug\net10.0\Tour2.runtimeconfig.json
+C:\Users\bbucz\Documents\Suli\VizsgaGyakorlo\ConsoleApp\Tour2\Tour2\bin\Debug\net10.0\Tour2.dll
+C:\Users\bbucz\Documents\Suli\VizsgaGyakorlo\ConsoleApp\Tour2\Tour2\bin\Debug\net10.0\Tour2.pdb
+C:\Users\bbucz\Documents\Suli\VizsgaGyakorlo\ConsoleApp\Tour2\Tour2\obj\Debug\net10.0\Tour2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbucz\Documents\Suli\VizsgaGyakorlo\ConsoleApp\Tour2\Tour2\obj\Debug\net10.0\Tour2.AssemblyInfoInputs.cache
+C:\Users\bbucz\Documents\Suli\VizsgaGyakorlo\ConsoleApp\Tour2\Tour2\obj\Debug\net10.0\Tour2.AssemblyInfo.cs
+C:\Users\bbucz\Documents\Suli\VizsgaGyakorlo\ConsoleApp\Tour2\Tour2\obj\Debug\net10.0\Tour2.csproj.CoreCompileInputs.cache
+C:\Users\bbucz\Documents\Suli\VizsgaGyakorlo\ConsoleApp\Tour2\Tour2\obj\Debug\net10.0\Tour2.dll
+C:\Users\bbucz\Documents\Suli\VizsgaGyakorlo\ConsoleApp\Tour2\Tour2\obj\Debug\net10.0\refint\Tour2.dll
+C:\Users\bbucz\Documents\Suli\VizsgaGyakorlo\ConsoleApp\Tour2\Tour2\obj\Debug\net10.0\Tour2.pdb
+C:\Users\bbucz\Documents\Suli\VizsgaGyakorlo\ConsoleApp\Tour2\Tour2\obj\Debug\net10.0\Tour2.genruntimeconfig.cache
+C:\Users\bbucz\Documents\Suli\VizsgaGyakorlo\ConsoleApp\Tour2\Tour2\obj\Debug\net10.0\ref\Tour2.dll

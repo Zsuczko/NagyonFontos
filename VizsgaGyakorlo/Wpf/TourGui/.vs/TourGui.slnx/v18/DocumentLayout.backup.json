@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\Wpf\\TourGui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B0BB1-8DFF-4A79-AF18-2CD05DB472A6}|TourGui\\TourGui.csproj|c:\\users\\bbucz\\documents\\suli\\vizsgagyakorlo\\wpf\\tourgui\\tourgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62B0BB1-8DFF-4A79-AF18-2CD05DB472A6}|TourGui\\TourGui.csproj|solutionrelative:tourgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B0BB1-8DFF-4A79-AF18-2CD05DB472A6}|TourGui\\TourGui.csproj|c:\\users\\bbucz\\documents\\suli\\vizsgagyakorlo\\wpf\\tourgui\\tourgui\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B62B0BB1-8DFF-4A79-AF18-2CD05DB472A6}|TourGui\\TourGui.csproj|solutionrelative:tourgui\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B0BB1-8DFF-4A79-AF18-2CD05DB472A6}|TourGui\\TourGui.csproj|c:\\users\\bbucz\\documents\\suli\\vizsgagyakorlo\\wpf\\tourgui\\tourgui\\models\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62B0BB1-8DFF-4A79-AF18-2CD05DB472A6}|TourGui\\TourGui.csproj|solutionrelative:tourgui\\models\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B0BB1-8DFF-4A79-AF18-2CD05DB472A6}|TourGui\\TourGui.csproj|c:\\users\\bbucz\\documents\\suli\\vizsgagyakorlo\\wpf\\tourgui\\tourgui\\models\\eredmeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62B0BB1-8DFF-4A79-AF18-2CD05DB472A6}|TourGui\\TourGui.csproj|solutionrelative:tourgui\\models\\eredmeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B0BB1-8DFF-4A79-AF18-2CD05DB472A6}|TourGui\\TourGui.csproj|c:\\users\\bbucz\\documents\\suli\\vizsgagyakorlo\\wpf\\tourgui\\tourgui\\models\\tourcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62B0BB1-8DFF-4A79-AF18-2CD05DB472A6}|TourGui\\TourGui.csproj|solutionrelative:tourgui\\models\\tourcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B0BB1-8DFF-4A79-AF18-2CD05DB472A6}|TourGui\\TourGui.csproj|c:\\users\\bbucz\\documents\\suli\\vizsgagyakorlo\\wpf\\tourgui\\tourgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B62B0BB1-8DFF-4A79-AF18-2CD05DB472A6}|TourGui\\TourGui.csproj|solutionrelative:tourgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Versenyzo.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\Wpf\\TourGui\\TourGui\\Models\\Versenyzo.cs",
+              "RelativeDocumentMoniker": "TourGui\\Models\\Versenyzo.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\Wpf\\TourGui\\TourGui\\Models\\Versenyzo.cs",
+              "RelativeToolTip": "TourGui\\Models\\Versenyzo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:10:42.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{73068c07-fba1-453f-99ae-6edf972119b2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Eredmeny.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\Wpf\\TourGui\\TourGui\\Models\\Eredmeny.cs",
+              "RelativeDocumentMoniker": "TourGui\\Models\\Eredmeny.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\Wpf\\TourGui\\TourGui\\Models\\Eredmeny.cs",
+              "RelativeToolTip": "TourGui\\Models\\Eredmeny.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:10:39.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TourContext.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\Wpf\\TourGui\\TourGui\\Models\\TourContext.cs",
+              "RelativeDocumentMoniker": "TourGui\\Models\\TourContext.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\Wpf\\TourGui\\TourGui\\Models\\TourContext.cs",
+              "RelativeToolTip": "TourGui\\Models\\TourContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:09:53.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\Wpf\\TourGui\\TourGui\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TourGui\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\Wpf\\TourGui\\TourGui\\MainWindow.xaml*",
+              "RelativeToolTip": "TourGui\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-06T09:04:02.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\Wpf\\TourGui\\TourGui\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TourGui\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\Wpf\\TourGui\\TourGui\\MainWindow.xaml*",
+              "RelativeToolTip": "TourGui\\MainWindow.xaml*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-06T09:05:42.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\Wpf\\TourGui\\TourGui\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TourGui\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\Wpf\\TourGui\\TourGui\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TourGui\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAE4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:04:00.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

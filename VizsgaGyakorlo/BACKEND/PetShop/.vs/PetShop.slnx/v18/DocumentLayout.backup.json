@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\BACKEND\\PetShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BC968D-0165-4960-B8CB-EE04CE7E8C18}|PetShop\\PetShop.csproj|c:\\users\\bbucz\\documents\\suli\\vizsgagyakorlo\\backend\\petshop\\petshop\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BC968D-0165-4960-B8CB-EE04CE7E8C18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BC968D-0165-4960-B8CB-EE04CE7E8C18}|PetShop\\PetShop.csproj|c:\\users\\bbucz\\documents\\suli\\vizsgagyakorlo\\backend\\petshop\\petshop\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BC968D-0165-4960-B8CB-EE04CE7E8C18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BC968D-0165-4960-B8CB-EE04CE7E8C18}|PetShop\\PetShop.csproj|c:\\users\\bbucz\\documents\\suli\\vizsgagyakorlo\\backend\\petshop\\petshop\\classes\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BC968D-0165-4960-B8CB-EE04CE7E8C18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\classes\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BC968D-0165-4960-B8CB-EE04CE7E8C18}|PetShop\\PetShop.csproj|c:\\users\\bbucz\\documents\\suli\\vizsgagyakorlo\\backend\\petshop\\petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BC968D-0165-4960-B8CB-EE04CE7E8C18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BC968D-0165-4960-B8CB-EE04CE7E8C18}|PetShop\\PetShop.csproj|c:\\users\\bbucz\\documents\\suli\\vizsgagyakorlo\\backend\\petshop\\petshop\\data\\petdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BC968D-0165-4960-B8CB-EE04CE7E8C18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\data\\petdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BC968D-0165-4960-B8CB-EE04CE7E8C18}|PetShop\\PetShop.csproj|c:\\users\\bbucz\\documents\\suli\\vizsgagyakorlo\\backend\\petshop\\petshop\\classes\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BC968D-0165-4960-B8CB-EE04CE7E8C18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\classes\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OwnerController.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\BACKEND\\PetShop\\PetShop\\Controllers\\OwnerController.cs",
+              "RelativeDocumentMoniker": "PetShop\\Controllers\\OwnerController.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\BACKEND\\PetShop\\PetShop\\Controllers\\OwnerController.cs",
+              "RelativeToolTip": "PetShop\\Controllers\\OwnerController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAwDsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T08:25:11.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\BACKEND\\PetShop\\PetShop\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "PetShop\\Controllers\\PetController.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\BACKEND\\PetShop\\PetShop\\Controllers\\PetController.cs",
+              "RelativeToolTip": "PetShop\\Controllers\\PetController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAEwFQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T08:16:26.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\BACKEND\\PetShop\\PetShop\\Classes\\Pet.cs",
+              "RelativeDocumentMoniker": "PetShop\\Classes\\Pet.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\BACKEND\\PetShop\\PetShop\\Classes\\Pet.cs",
+              "RelativeToolTip": "PetShop\\Classes\\Pet.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA6wA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T08:03:30.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\BACKEND\\PetShop\\PetShop\\Classes\\Owner.cs",
+              "RelativeDocumentMoniker": "PetShop\\Classes\\Owner.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\BACKEND\\PetShop\\PetShop\\Classes\\Owner.cs",
+              "RelativeToolTip": "PetShop\\Classes\\Owner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T07:59:59.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PetDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\BACKEND\\PetShop\\PetShop\\Data\\PetDbContext.cs",
+              "RelativeDocumentMoniker": "PetShop\\Data\\PetDbContext.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\BACKEND\\PetShop\\PetShop\\Data\\PetDbContext.cs",
+              "RelativeToolTip": "PetShop\\Data\\PetDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T07:56:00.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\BACKEND\\PetShop\\PetShop\\Program.cs",
+              "RelativeDocumentMoniker": "PetShop\\Program.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\BACKEND\\PetShop\\PetShop\\Program.cs",
+              "RelativeToolTip": "PetShop\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T07:50:30.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{73068c07-fba1-453f-99ae-6edf972119b2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

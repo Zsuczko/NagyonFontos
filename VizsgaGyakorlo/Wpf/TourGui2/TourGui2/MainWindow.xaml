@@ -1,0 +1,22 @@
+﻿<Window x:Class="TourGui2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TourGui2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="MyDataGrid" SelectionMode="Single" SelectionChanged="MyDataGrid_SelectionChanged"/>
+        <StackPanel Grid.Column="1">
+            <Label Content="5. szakasz eredménye: " x:Name="MyLabel"/>
+            <Button Content="Csoportonkénti versenyzők száma" Click="Button_Click"/>
+            <ListBox Height="100" x:Name="MyListBox"/>
+            <Button Content="Magyar versenyzők száma" Click="Button_Click_1"/>
+        </StackPanel>
+    </Grid>
+</Window>

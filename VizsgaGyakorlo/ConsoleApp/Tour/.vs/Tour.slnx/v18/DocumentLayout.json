@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\ConsoleApp\\Tour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F62EFF92-21F1-46CF-97A1-A7A21D9183BB}|Tour\\Tour.csproj|c:\\users\\bbucz\\documents\\suli\\vizsgagyakorlo\\consoleapp\\tour\\tour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62EFF92-21F1-46CF-97A1-A7A21D9183BB}|Tour\\Tour.csproj|solutionrelative:tour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62EFF92-21F1-46CF-97A1-A7A21D9183BB}|Tour\\Tour.csproj|c:\\users\\bbucz\\documents\\suli\\vizsgagyakorlo\\consoleapp\\tour\\tour\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62EFF92-21F1-46CF-97A1-A7A21D9183BB}|Tour\\Tour.csproj|solutionrelative:tour\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{73068c07-fba1-453f-99ae-6edf972119b2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Versenyzo.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\ConsoleApp\\Tour\\Tour\\Versenyzo.cs",
+              "RelativeDocumentMoniker": "Tour\\Versenyzo.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\ConsoleApp\\Tour\\Tour\\Versenyzo.cs",
+              "RelativeToolTip": "Tour\\Versenyzo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wCYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:04:09.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\ConsoleApp\\Tour\\Tour\\Program.cs",
+              "RelativeDocumentMoniker": "Tour\\Program.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\VizsgaGyakorlo\\ConsoleApp\\Tour\\Tour\\Program.cs",
+              "RelativeToolTip": "Tour\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:01:35.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
