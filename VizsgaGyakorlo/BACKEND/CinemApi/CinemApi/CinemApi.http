@@ -1,0 +1,6 @@
+@CinemApi_HostAddress = http://localhost:5219
+
+GET {{CinemApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
