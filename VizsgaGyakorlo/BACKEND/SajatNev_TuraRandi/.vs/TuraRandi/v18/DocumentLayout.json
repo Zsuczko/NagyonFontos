@@ -111,8 +111,7 @@
               "RelativeToolTip": "TuraRandi\\Pages\\Edit.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-09T15:51:36.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-09T15:51:36.352Z"
             },
             {
               "$type": "Document",
@@ -124,8 +123,7 @@
               "RelativeToolTip": "TuraRandi\\Controllers\\AppController.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAQwFEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T15:20:27.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-09T15:20:27.547Z"
             },
             {
               "$type": "Document",
@@ -137,8 +135,7 @@
               "RelativeToolTip": "TuraRandi\\Pages\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-09T15:15:02.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-09T15:15:02.647Z"
             },
             {
               "$type": "Document",
@@ -150,8 +147,7 @@
               "RelativeToolTip": "TuraRandi\\Pages\\Admin.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-09T15:14:57.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-09T15:14:57.91Z"
             },
             {
               "$type": "Document",
@@ -163,8 +159,7 @@
               "RelativeToolTip": "TuraRandi\\Models\\Testimonial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T15:10:51.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-09T15:10:51.765Z"
             },
             {
               "$type": "Document",
@@ -176,8 +171,7 @@
               "RelativeToolTip": "TuraRandi\\Data\\TuraRandiDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T15:10:40.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-09T15:10:40.703Z"
             },
             {
               "$type": "Document",
@@ -189,8 +183,7 @@
               "RelativeToolTip": "TuraRandi\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAAB4AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T15:10:21.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-09T15:10:21.844Z"
             }
           ]
         }

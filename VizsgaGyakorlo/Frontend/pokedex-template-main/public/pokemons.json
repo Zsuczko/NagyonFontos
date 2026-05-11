@@ -1,0 +1,86 @@
+[
+    {
+      "name": "bulbasaur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+      "types": [
+        { "name": "grass", "color": "#78C850" },
+        { "name": "poison", "color": "#A040A0" }
+      ],
+      "health": 3.5
+    },
+    {
+      "name": "ivysaur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+      "types": [
+        { "name": "grass", "color": "#78C850" },
+        { "name": "poison", "color": "#A040A0" }
+      ],
+      "health": 1.0
+    },
+    {
+      "name": "venusaur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+      "types": [
+        { "name": "grass", "color": "#78C850" },
+        { "name": "poison", "color": "#A040A0" }
+      ],
+      "health": 3.8
+    },
+    {
+      "name": "charmander",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+      "types": [
+        { "name": "fire", "color": "#F08030" }
+      ],
+      "health": 0.5
+    },
+    {
+      "name": "charmeleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+      "types": [
+        { "name": "fire", "color": "#F08030" }
+      ],
+      "health": 3.5
+    },
+    {
+      "name": "charizard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+      "types": [
+        { "name": "fire", "color": "#F08030" },
+        { "name": "flying", "color": "#A890F0" }
+      ],
+      "health": 2.0
+    },
+    {
+      "name": "squirtle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+      "types": [
+        { "name": "water", "color": "#6890F0" }
+      ],
+      "health": 4.0
+    },
+    {
+      "name": "wartortle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+      "types": [
+        { "name": "water", "color": "#6890F0" }
+      ],
+      "health": 1.5
+    },
+    {
+      "name": "blastoise",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+      "types": [
+        { "name": "water", "color": "#6890F0" }
+      ],
+      "health": 3.0
+    },
+    {
+      "name": "caterpie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+      "types": [
+        { "name": "bug", "color": "#A8B820" }
+      ],
+      "health": 0.5
+    }
+  ]

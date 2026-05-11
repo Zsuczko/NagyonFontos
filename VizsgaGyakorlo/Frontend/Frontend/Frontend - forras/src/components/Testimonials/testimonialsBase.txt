@@ -1,0 +1,25 @@
+/* Importálások */
+
+import styles from './Testimonials.module.css'
+import left from '../../assets/icons/left.svg'
+import right from '../../assets/icons/right.svg'
+
+/* A renderelés szerkezete */
+
+<section className={styles.testimonials}>
+<div className="testimonialCard">
+  <div>
+    <button><img alt="Balra mutató nyíl" src={left} /></button>
+    <div>
+      <img alt="Profilkép"/>
+      <div>
+        <h3>[name] ([age])</h3>
+        <h4>[location]</h4>
+      </div>
+      <p>[testimonial]</p>
+      <a href="#">ÉN SEM HAGYOM KI!</a>
+    </div>
+    <button><img alt="Jobbra muató nyíl" src={right} /></button>
+  </div>
+</div>
+</section>

@@ -1,0 +1,142 @@
+@font-face {
+  font-family: "PokeHollow";
+  src: url(assets/Pokemon\ Hollow.ttf);
+}
+
+@font-face {
+  font-family: "PokeSolid";
+  src: url(assets/Pokemon\ Solid.ttf);
+}
+
+:root {
+  --pokedex-red: #e3350d;
+  /* main shell */
+  --pokedex-red-dark: #b62a0a;
+  /* header/shadow */
+  --pokedex-blue: #2a75bb;
+  /* primary actions/links */
+  --pokedex-yellow: #ffcb05;
+  /* highlight / badges */
+  --pokedex-bg: #f5f7fb;
+  /* app background */
+  --pokedex-text: #1b1b1b;
+  /* main text */
+
+  --font-hollow: "PokeHollow";
+  --font-solid: "PokeSolid";
+
+  font-family: var(--font-solid);
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  background-image: url("../src/assets/bg.jpg");
+  background-size: cover;
+}
+
+main {
+
+  width: min(800px, 80vw);
+  padding: 20px;
+  border-radius: 10px;
+  aspect-ratio: 1 / 1;
+}
+
+.pokePic {
+  width: min(100%, 300px);
+  display: block;
+  margin: auto;
+  height: auto;
+  image-rendering: pixelated;
+  background: rgba(135, 207, 235, 0.849);
+  border-radius: 10px;
+  margin-bottom: 20px;
+  border: 5px solid black;
+}
+
+
+nav>h1 {
+  margin: 0;
+  text-align: center;
+  font-size: 2rem;
+  color: var(--pokedex-yellow);
+  text-transform: uppercase;
+  letter-spacing: 0.7rem;
+  text-shadow: 5px 5px 0 var(--pokedex-blue), -2px -2px 0 var(--pokedex-blue), -2px 2px 0 var(--pokedex-blue), 2px -2px 0 var(--pokedex-blue);
+  vertical-align: middle;
+  display: inline;
+}
+
+.health {
+  display: flex;
+  justify-content: center;
+  font-size: 2rem;
+  color: var(--pokedex-red);
+  background: white;
+  width: min(100%, 300px);
+  margin: auto;
+  border-radius: 10px;
+  border: 5px solid black;
+  padding: 20px;
+  gap: 5px;
+}
+
+.pokeType {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  gap: 10px;
+
+  >span {
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    text-shadow: 2px 2px 0px black;
+    aspect-ratio: 1 / 1;
+    height: 70px;
+    color: white;
+  }
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  button {
+    padding: 10px;
+    background-color: transparent;
+    font-size: 2rem;
+    aspect-ratio: 1 / 1;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: scale 0.1s ease;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  button:hover {
+    scale: 1.1;
+  }
+}
+
+.pokeBallWrapper {
+  margin-top: 20px;
+}

@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bbucz\\Documents\\Suli\\NagyonFontos\\VizsgaGyakorlo\\Wpf\\LibraryGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B608E5-EF85-45CA-9B38-E62AE65956C5}|LibraryGUI\\LibraryGUI.csproj|c:\\users\\bbucz\\documents\\suli\\nagyonfontos\\vizsgagyakorlo\\wpf\\librarygui\\librarygui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B608E5-EF85-45CA-9B38-E62AE65956C5}|LibraryGUI\\LibraryGUI.csproj|solutionrelative:librarygui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B608E5-EF85-45CA-9B38-E62AE65956C5}|LibraryGUI\\LibraryGUI.csproj|c:\\users\\bbucz\\documents\\suli\\nagyonfontos\\vizsgagyakorlo\\wpf\\librarygui\\librarygui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6B608E5-EF85-45CA-9B38-E62AE65956C5}|LibraryGUI\\LibraryGUI.csproj|solutionrelative:librarygui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B608E5-EF85-45CA-9B38-E62AE65956C5}|LibraryGUI\\LibraryGUI.csproj|c:\\users\\bbucz\\documents\\suli\\nagyonfontos\\vizsgagyakorlo\\wpf\\librarygui\\librarygui\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F6B608E5-EF85-45CA-9B38-E62AE65956C5}|LibraryGUI\\LibraryGUI.csproj|solutionrelative:librarygui\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B608E5-EF85-45CA-9B38-E62AE65956C5}|LibraryGUI\\LibraryGUI.csproj|c:\\users\\bbucz\\documents\\suli\\nagyonfontos\\vizsgagyakorlo\\wpf\\librarygui\\librarygui\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B608E5-EF85-45CA-9B38-E62AE65956C5}|LibraryGUI\\LibraryGUI.csproj|solutionrelative:librarygui\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B608E5-EF85-45CA-9B38-E62AE65956C5}|LibraryGUI\\LibraryGUI.csproj|c:\\users\\bbucz\\documents\\suli\\nagyonfontos\\vizsgagyakorlo\\wpf\\librarygui\\librarygui\\models\\kolcsonze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B608E5-EF85-45CA-9B38-E62AE65956C5}|LibraryGUI\\LibraryGUI.csproj|solutionrelative:librarygui\\models\\kolcsonze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B608E5-EF85-45CA-9B38-E62AE65956C5}|LibraryGUI\\LibraryGUI.csproj|c:\\users\\bbucz\\documents\\suli\\nagyonfontos\\vizsgagyakorlo\\wpf\\librarygui\\librarygui\\models\\konyv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B608E5-EF85-45CA-9B38-E62AE65956C5}|LibraryGUI\\LibraryGUI.csproj|solutionrelative:librarygui\\models\\konyv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{73068c07-fba1-453f-99ae-6edf972119b2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\NagyonFontos\\VizsgaGyakorlo\\Wpf\\LibraryGUI\\LibraryGUI\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "LibraryGUI\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\NagyonFontos\\VizsgaGyakorlo\\Wpf\\LibraryGUI\\LibraryGUI\\LibraryContext.cs",
+              "RelativeToolTip": "LibraryGUI\\LibraryContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:42:47.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Konyv.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\NagyonFontos\\VizsgaGyakorlo\\Wpf\\LibraryGUI\\LibraryGUI\\Models\\Konyv.cs",
+              "RelativeDocumentMoniker": "LibraryGUI\\Models\\Konyv.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\NagyonFontos\\VizsgaGyakorlo\\Wpf\\LibraryGUI\\LibraryGUI\\Models\\Konyv.cs",
+              "RelativeToolTip": "LibraryGUI\\Models\\Konyv.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:42:39.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kolcsonze.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\NagyonFontos\\VizsgaGyakorlo\\Wpf\\LibraryGUI\\LibraryGUI\\Models\\Kolcsonze.cs",
+              "RelativeDocumentMoniker": "LibraryGUI\\Models\\Kolcsonze.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\NagyonFontos\\VizsgaGyakorlo\\Wpf\\LibraryGUI\\LibraryGUI\\Models\\Kolcsonze.cs",
+              "RelativeToolTip": "LibraryGUI\\Models\\Kolcsonze.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:42:35.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\NagyonFontos\\VizsgaGyakorlo\\Wpf\\LibraryGUI\\LibraryGUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LibraryGUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\NagyonFontos\\VizsgaGyakorlo\\Wpf\\LibraryGUI\\LibraryGUI\\MainWindow.xaml",
+              "RelativeToolTip": "LibraryGUI\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-10T15:28:07.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\NagyonFontos\\VizsgaGyakorlo\\Wpf\\LibraryGUI\\LibraryGUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LibraryGUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\NagyonFontos\\VizsgaGyakorlo\\Wpf\\LibraryGUI\\LibraryGUI\\MainWindow.xaml",
+              "RelativeToolTip": "LibraryGUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-10T15:24:15.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Suli\\NagyonFontos\\VizsgaGyakorlo\\Wpf\\LibraryGUI\\LibraryGUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LibraryGUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Suli\\NagyonFontos\\VizsgaGyakorlo\\Wpf\\LibraryGUI\\LibraryGUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LibraryGUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvx4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:24:13.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

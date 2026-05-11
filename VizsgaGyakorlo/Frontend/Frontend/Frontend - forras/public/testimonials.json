@@ -1,0 +1,32 @@
+{
+  "testimonials": [
+    {
+      "name": "Kovács Anna",
+      "age": 28,
+      "location": "Budapest",
+      "testimonial": "A túrázás során nemcsak gyönyörű tájakat fedeztem fel, hanem igaz barátokra és egy különleges kapcsolatot is találtam. Nagyon ajánlom mindenkinek, aki új embereket szeretne megismerni egy aktív program keretében!",
+      "image": "/img/woman1.jpg"
+    },
+    {
+      "name": "Fekete Balázs",
+      "age": 40,
+      "location": "Debrecen",
+      "testimonial": "A túrák során valóban megismerheted a másik embert, miközben élvezed a természetet. Nagyon szuper élmény volt, és itt találtam meg azt a személyt, akivel igazán közös érdeklődési körünk van.",
+      "image": "/img/man1.jpg"
+    },
+    {
+      "name": "Nagy Klaudia",
+      "age": 22,
+      "location": "Pécs",
+      "testimonial": "Szeretek túrázni, és sosem gondoltam volna, hogy ilyen módon találhatok magamnak valakit. A túrázások tényleg remek lehetőséget adnak arra, hogy az emberek közelről megismerjék egymást.",
+      "image": "/img/woman2.jpg"
+    },
+    {
+      "name": "Tóth János",
+      "age": 20,
+      "location": "Szeged",
+      "testimonial": "Nagyon jó volt, hogy egy közös túrán ismertem meg egy csodálatos nőt. A közös élmények és beszélgetések igazán közelebb hoznak két embert. A túrák remek alkalmat adnak az ismerkedésre!",
+      "image": "/img/man2.jpg"
+    }
+  ]
+}

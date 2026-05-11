@@ -1,0 +1,11 @@
+/* TODO: CSS feladatok */
+.pokeBallWrapper {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+}
+@media(max-width:600px){
+    .pokeBallWrapper {
+            grid-template-columns: repeat(3, 1fr);
+    }
+}

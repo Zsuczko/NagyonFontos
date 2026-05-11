@@ -1,0 +1,22 @@
+/* A formázással kapcsolatos feladatokat itt oldja meg! */
+.aboutCards {
+    margin-top: 100px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+@media (max-width: 768px) {
+    .aboutCards {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+.navbarLinks{
+    list-style: none;
+    a{
+
+        text-decoration: none;
+        color: var(--font)
+    }
+}

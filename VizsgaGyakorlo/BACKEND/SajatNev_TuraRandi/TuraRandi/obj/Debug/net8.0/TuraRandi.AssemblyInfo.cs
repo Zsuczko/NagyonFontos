@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TuraRandi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32bd4485f8859d0ac493bf95fc8b2c61be55bf35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f95452651225c0b07695bd6f3fdbe059c094f6ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("TuraRandi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TuraRandi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

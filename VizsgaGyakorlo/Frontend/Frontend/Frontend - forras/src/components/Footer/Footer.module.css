@@ -1,0 +1,43 @@
+.footer{
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(-45deg,var(--female-pink), var(--male-blue));
+    gap: 20px;
+
+    div.appButtons{
+        display: flex;
+        max-width: 300px;
+        gap: 20px;
+        img{
+            width: 100%;
+            filter: invert(0);
+            transition: filter 0.5s;
+        }
+
+        img:hover{
+            filter: invert(1);
+        }
+    }
+
+    ul{
+        display: flex;
+        gap: 30px;
+        a{
+            color: white;
+            text-decoration: none;
+        }
+        
+        list-style-type: none;
+    }
+
+    p{
+        color: white;
+    }
+
+    >img{
+        width: 100px;
+    }
+}

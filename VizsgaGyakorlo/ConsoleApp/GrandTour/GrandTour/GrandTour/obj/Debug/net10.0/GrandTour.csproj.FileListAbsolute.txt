@@ -1,0 +1,15 @@
+C:\Users\bbucz\Documents\Suli\NagyonFontos\VizsgaGyakorlo\ConsoleApp\GrandTour\GrandTour\GrandTour\bin\Debug\net10.0\GrandTour.exe
+C:\Users\bbucz\Documents\Suli\NagyonFontos\VizsgaGyakorlo\ConsoleApp\GrandTour\GrandTour\GrandTour\bin\Debug\net10.0\GrandTour.deps.json
+C:\Users\bbucz\Documents\Suli\NagyonFontos\VizsgaGyakorlo\ConsoleApp\GrandTour\GrandTour\GrandTour\bin\Debug\net10.0\GrandTour.runtimeconfig.json
+C:\Users\bbucz\Documents\Suli\NagyonFontos\VizsgaGyakorlo\ConsoleApp\GrandTour\GrandTour\GrandTour\bin\Debug\net10.0\GrandTour.dll
+C:\Users\bbucz\Documents\Suli\NagyonFontos\VizsgaGyakorlo\ConsoleApp\GrandTour\GrandTour\GrandTour\bin\Debug\net10.0\GrandTour.pdb
+C:\Users\bbucz\Documents\Suli\NagyonFontos\VizsgaGyakorlo\ConsoleApp\GrandTour\GrandTour\GrandTour\obj\Debug\net10.0\GrandTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbucz\Documents\Suli\NagyonFontos\VizsgaGyakorlo\ConsoleApp\GrandTour\GrandTour\GrandTour\obj\Debug\net10.0\GrandTour.AssemblyInfoInputs.cache
+C:\Users\bbucz\Documents\Suli\NagyonFontos\VizsgaGyakorlo\ConsoleApp\GrandTour\GrandTour\GrandTour\obj\Debug\net10.0\GrandTour.AssemblyInfo.cs
+C:\Users\bbucz\Documents\Suli\NagyonFontos\VizsgaGyakorlo\ConsoleApp\GrandTour\GrandTour\GrandTour\obj\Debug\net10.0\GrandTour.csproj.CoreCompileInputs.cache
+C:\Users\bbucz\Documents\Suli\NagyonFontos\VizsgaGyakorlo\ConsoleApp\GrandTour\GrandTour\GrandTour\obj\Debug\net10.0\GrandTour.sourcelink.json
+C:\Users\bbucz\Documents\Suli\NagyonFontos\VizsgaGyakorlo\ConsoleApp\GrandTour\GrandTour\GrandTour\obj\Debug\net10.0\GrandTour.dll
+C:\Users\bbucz\Documents\Suli\NagyonFontos\VizsgaGyakorlo\ConsoleApp\GrandTour\GrandTour\GrandTour\obj\Debug\net10.0\refint\GrandTour.dll
+C:\Users\bbucz\Documents\Suli\NagyonFontos\VizsgaGyakorlo\ConsoleApp\GrandTour\GrandTour\GrandTour\obj\Debug\net10.0\GrandTour.pdb
+C:\Users\bbucz\Documents\Suli\NagyonFontos\VizsgaGyakorlo\ConsoleApp\GrandTour\GrandTour\GrandTour\obj\Debug\net10.0\GrandTour.genruntimeconfig.cache
+C:\Users\bbucz\Documents\Suli\NagyonFontos\VizsgaGyakorlo\ConsoleApp\GrandTour\GrandTour\GrandTour\obj\Debug\net10.0\ref\GrandTour.dll

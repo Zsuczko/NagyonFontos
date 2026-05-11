@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
+:root{
+  font-family: "Roboto", sans-serif;
+  --female-pink: #F664BC;
+  --male-blue: #00ABF5;
+  --my-purple: #7A37E2;
+  --lighter-font: #555;
+  --font: #333;
+  color: #333;
+}
+
+body{
+  font-family: 'Poppins', sans-serif;
+  background-color: #FFF;
+}
+
+
+p{
+  line-height: 1.8rem;
+}
